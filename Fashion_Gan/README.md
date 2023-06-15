@@ -1,2 +1,1 @@
-Gans Trained on Fashion_mnist dataset.
-Dataset - https://github.com/zalandoresearch/fashion-mnist
+Gans Trained on Fashion_mnist dataset --  https://github.com/zalandoresearch/fashion-mnist
