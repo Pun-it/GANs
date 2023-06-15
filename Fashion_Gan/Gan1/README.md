@@ -1,4 +1,4 @@
-The gan was trained 6 times :/n
+The gan was trained 6 times :
   . For 200 epochs
   . For 50 epochs
   . For 200 epochs
