@@ -1,2 +1,2 @@
 # Gans
-Gans.
+GANS.
