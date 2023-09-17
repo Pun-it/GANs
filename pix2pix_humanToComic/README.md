@@ -9,3 +9,9 @@ Weights : \
  ## Generated Sample:
  ![pipi](https://github.com/Pun-it/GANs/blob/main/pix2pix_humanToComic/outputImages/GeneratedSample.png?raw=true)
 
+@article{pix2pix2017, \
+title={Image-to-Image Translation with Conditional Adversarial Networks}, \
+author={Isola, Phillip and Zhu, Jun-Yan and Zhou, Tinghui and Efros, Alexei A}, \
+journal={CVPR}, \
+year={2017} \
+}
